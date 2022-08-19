@@ -1,0 +1,254 @@
+# depslib dependency file v1.0
+1587354833 source:d:\strukdat\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+
+1587321227 source:d:\strukdat\tubesstd\penugasan.cpp
+	"penugasan.h"
+	<iostream>
+
+1587320532 d:\strukdat\tubesstd\penugasan.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587324795 d:\strukdat\tubesstd\programmer.h
+	<iostream>
+
+1587354904 d:\strukdat\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587354726 source:d:\strukdat\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587326395 source:d:\strukdat\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1587325420 source:d:\strukdat\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1587354688 d:\strukdat\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587359604 source:d:\materi kuliah 2020\tubes revisi dinda\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587358306 d:\materi kuliah 2020\tubes revisi dinda\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587357276 d:\materi kuliah 2020\tubes revisi dinda\tubesstd\programmer.h
+	<iostream>
+
+1587354904 d:\materi kuliah 2020\tubes revisi dinda\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587358596 source:d:\materi kuliah 2020\tubes revisi dinda\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1587325420 source:d:\materi kuliah 2020\tubes revisi dinda\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1587354726 source:d:\materi kuliah 2020\tubes revisi dinda\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587359642 d:\materi kuliah 2020\tubes revisi dinda\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1587615330 source:d:\tubes revisi dinda\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587918024 d:\tubes revisi dinda\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587958955 d:\tubes revisi dinda\tubesstd\programmer.h
+	<iostream>
+
+1587958955 d:\tubes revisi dinda\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587410964 d:\tubes revisi dinda\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1587958955 source:d:\tubes revisi dinda\tubesstd\menu.cpp
+	"Menu.h"
+
+1587921269 source:d:\tubes revisi dinda\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1587959545 source:d:\tubes revisi dinda\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1587959545 source:d:\tubes revisi dinda\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587615330 source:d:\materi kuliah 2020\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587918024 d:\materi kuliah 2020\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587958955 d:\materi kuliah 2020\tubesstd\programmer.h
+	<iostream>
+
+1587972086 d:\materi kuliah 2020\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587410964 d:\materi kuliah 2020\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1587971996 source:d:\materi kuliah 2020\tubesstd\menu.cpp
+	"Menu.h"
+
+1587971162 source:d:\materi kuliah 2020\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1587971985 source:d:\materi kuliah 2020\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1587960568 source:d:\materi kuliah 2020\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587615330 source:f:\work\c++\strucdat\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587918024 f:\work\c++\strucdat\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587958955 f:\work\c++\strucdat\tubesstd\programmer.h
+	<iostream>
+
+1587972086 f:\work\c++\strucdat\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587410964 f:\work\c++\strucdat\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1588082607 source:f:\work\c++\strucdat\tubesstd\menu.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1587971162 source:f:\work\c++\strucdat\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1587974874 source:f:\work\c++\strucdat\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1588082270 source:f:\work\c++\strucdat\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587615330 source:c:\users\lenovo\downloads\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587918024 c:\users\lenovo\downloads\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587958955 c:\users\lenovo\downloads\tubesstd\programmer.h
+	<iostream>
+
+1588101273 c:\users\lenovo\downloads\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587410964 c:\users\lenovo\downloads\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1588091153 source:c:\users\lenovo\downloads\tubesstd\menu.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1587971162 source:c:\users\lenovo\downloads\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1588101273 source:c:\users\lenovo\downloads\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1588082693 source:c:\users\lenovo\downloads\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
+1587615330 source:d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\main.cpp
+	<iostream>
+	"relasi.h"
+	"Menu.h"
+
+1587918024 d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\relasi.h
+	"programmer.h"
+	"project.h"
+	<iostream>
+
+1587958955 d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\programmer.h
+	<iostream>
+
+1588101273 d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\project.h
+	"programmer.h"
+	<iostream>
+
+1587410964 d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\menu.h
+	"relasi.h"
+	<iostream>
+
+1588091153 source:d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\menu.cpp
+	"Menu.h"
+	"stdlib.h"
+
+1587971162 source:d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\progbody.cpp
+	"programmer.h"
+	<iostream>
+
+1588101273 source:d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\projbody.cpp
+	"project.h"
+	<iostream>
+
+1588082693 source:d:\project_management_adinda_1301190307_arga_1301194055\tubesstd\relbody.cpp
+	"relasi.h"
+	<iostream>
+
